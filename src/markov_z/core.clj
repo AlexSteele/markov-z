@@ -56,20 +56,3 @@
 
 (defn -main [& args]
   (step agent-start 5))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
